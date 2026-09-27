@@ -9,7 +9,7 @@ description: >-
 license: Apache-2.0
 metadata:
   author: sarvam-ai
-  version: "4.0"
+  version: "4.1"
 ---
 
 # Text Translation — Sarvam AI

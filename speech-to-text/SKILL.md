@@ -8,7 +8,7 @@ description: >-
 license: Apache-2.0
 metadata:
   author: sarvam-ai
-  version: "3.3"
+  version: "3.4"
 ---
 
 # Speech-to-Text — Saaras
